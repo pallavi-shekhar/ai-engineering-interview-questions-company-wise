@@ -356,7 +356,7 @@
 
 - How do vision-language models get images into an LLM: projector, cross-attention, or native tokens?
   - Asked at: [Meta](#meta-superintelligence-labs-fair-llama), [Alibaba](#alibaba-qwen)
-  - Answer: [Multimodal AI](https://outcomeschool.com/blog/multimodal-ai) and [Decoding Vision Transformer (ViT)](https://outcomeschool.com/blog/decoding-vision-transformer-vit)
+  - Answer: [Multimodal AI](https://outcomeschool.com/blog/multimodal-ai) and [Decoding Vision Transformer (ViT)](https://outcomeschool.com/blog/decoding-vision-transformer-vit) and [How does a Vision-Language Model (VLM) work?](https://outcomeschool.com/blog/vision-language-model-vlm)
 - What changes when you move from images to video?
   - Asked at: [Meta](#meta-superintelligence-labs-fair-llama)
 - Budget the latency for a real-time voice agent: VAD, ASR, LLM, TTS, network. Where does the time go?
