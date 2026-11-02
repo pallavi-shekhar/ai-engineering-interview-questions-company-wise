@@ -1228,6 +1228,7 @@
 
 - Explain strategies to combat overfitting in tree-based classification models.
 - Summarize the differences and benefits of the Adam optimizer compared with other methods for neural-network image classification.
+  - Answer: [What are Optimizers in Deep Learning? SGD, Momentum, RMSProp, and Adam Explained](https://outcomeschool.com/blog/optimizers-in-deep-learning)
 - A network confuses pugs and pit bulls and some training labels are wrong. How do you modify the model and the data?
 - How do you evaluate a clustering model's effectiveness without pre-labelled groups?
 
