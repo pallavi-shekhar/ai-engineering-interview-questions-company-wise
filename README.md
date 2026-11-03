@@ -615,6 +615,7 @@
 #### ML and DL Fundamentals
 
 - Define the bias-variance trade-off and discuss the relationship between the two.
+  - Answer: [How does the Bias-Variance Tradeoff work?](https://outcomeschool.com/blog/bias-variance-tradeoff)
 - What are the assumptions of linear regression?
 - Distinguish regularization from validation: when is each the right tool?
   - Answer: [Regularization in Machine Learning: L1 vs L2](https://outcomeschool.com/blog/regularization-in-machine-learning)
