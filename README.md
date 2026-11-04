@@ -546,6 +546,7 @@
 #### ML and DL Fundamentals
 
 - Compute the KL divergence given different random variables.
+  - Answer: [What is KL Divergence? The Math Explained Step by Step](https://outcomeschool.com/blog/kl-divergence)
 - If the accuracy of a classifier is 1, what is the lower/upper bound on the loss function for a single training example?
   - Answer: [Math Behind Cross-Entropy Loss](https://outcomeschool.com/blog/math-behind-cross-entropy-loss)
 - We have two models, 85% and 82% accuracy. Which do you pick?
@@ -556,7 +557,7 @@
 - Explain self-attention. What is its computational complexity, and what are your options when contexts get long?
   - Answer: [Self Attention in Transformers](https://outcomeschool.com/blog/self-attention-in-transformers) and [How does Sliding Window Attention work?](https://outcomeschool.com/blog/how-does-sliding-window-attention-work)
 - What is the relationship between cross-entropy, KL divergence and perplexity, and why is cross-entropy the training loss for language models?
-  - Answer: [Math Behind Cross-Entropy Loss](https://outcomeschool.com/blog/math-behind-cross-entropy-loss)
+  - Answer: [Math Behind Cross-Entropy Loss](https://outcomeschool.com/blog/math-behind-cross-entropy-loss) and [What is KL Divergence? The Math Explained Step by Step](https://outcomeschool.com/blog/kl-divergence)
 - What is the effect of adjusting an LLM's context window size?
   - Answer: [Context Window in LLMs](https://www.linkedin.com/posts/amit-shekhar-iitbhu_the-context-window-is-the-llms-working-memory-activity-7437754426175672320-MH9c) and [Why is the context window limited in LLMs?](https://www.youtube.com/watch?v=CGIhxIaOg3M&lc)
 
@@ -1120,7 +1121,7 @@
 - Write the loss function for logistic regression and prove it has a global minimum.
   - Answer: [Math Behind Cross-Entropy Loss](https://outcomeschool.com/blog/math-behind-cross-entropy-loss) and [Linear Regression vs Logistic Regression](https://outcomeschool.com/blog/linear-regression-vs-logistic-regression)
 - How is KL divergence loss different from cross-entropy loss? And from contrastive loss?
-  - Answer: [Math Behind Cross-Entropy Loss](https://outcomeschool.com/blog/math-behind-cross-entropy-loss) and [What is Contrastive Learning?](https://outcomeschool.com/blog/contrastive-learning)
+  - Answer: [Math Behind Cross-Entropy Loss](https://outcomeschool.com/blog/math-behind-cross-entropy-loss) and [What is Contrastive Learning?](https://outcomeschool.com/blog/contrastive-learning) and [What is KL Divergence? The Math Explained Step by Step](https://outcomeschool.com/blog/kl-divergence)
 - How do bagging and boosting differ? What is the computational difference between XGBoost and Random Forest?
 - Explain the bias-variance trade-off, cross-validation, and the curse of dimensionality.
 - How do GRU cells work, and how do they address the vanishing gradient problem? How does a BiLSTM work?
