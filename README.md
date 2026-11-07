@@ -144,7 +144,7 @@
   - Answer: [Mixture of Experts Explained](https://outcomeschool.com/blog/mixture-of-experts)
 - Explain the difference between pre-training, supervised fine-tuning and preference optimisation.
   - Asked at: [Meta](#meta-superintelligence-labs-fair-llama), [Scale AI](#scale-ai)
-  - Answer: [Decoding InstructGPT](https://outcomeschool.com/blog/decoding-instructgpt) and [Reinforcement Learning from Human Feedback (RLHF)](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf)
+  - Answer: [Decoding InstructGPT](https://outcomeschool.com/blog/decoding-instructgpt) and [Reinforcement Learning from Human Feedback (RLHF)](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf) and [How does Pretraining work?](https://outcomeschool.com/blog/llm-pretraining)
 - Compare greedy, beam search, top-k, top-p and temperature sampling. When does each fail?
   - Asked at: [Google DeepMind](#google-deepmind-and-google-ai), [Apple](#apple), [Perplexity](#perplexity)
   - Answer: [How does Temperature control LLM output?](https://outcomeschool.com/blog/how-does-temperature-control-llm-output) and [How do Top-k and Top-p Sampling work?](https://outcomeschool.com/blog/how-do-top-k-and-top-p-sampling-work)
