@@ -184,7 +184,7 @@
   - Asked at: [Google DeepMind](#google-deepmind-and-google-ai), [Meta](#meta-superintelligence-labs-fair-llama), [Amazon](#amazon-aws), [NVIDIA](#nvidia)
 - Estimate the GPU memory needed to serve a 70B model: weights, KV cache, activations, fragmentation.
   - Asked at: [NVIDIA](#nvidia)
-  - Answer: [What is KV Cache in LLMs?](https://outcomeschool.com/blog/kv-cache-in-llms) and [Paged Attention in LLMs](https://outcomeschool.com/blog/paged-attention-in-llms)
+  - Answer: [What is KV Cache in LLMs?](https://outcomeschool.com/blog/kv-cache-in-llms) and [Paged Attention in LLMs](https://outcomeschool.com/blog/paged-attention-in-llms) and [How does an LLM use GPU memory?](https://outcomeschool.com/blog/llm-gpu-memory)
 - What are TTFT, TPOT, ITL and throughput, and how do they trade against each other?
   - Asked at: [Microsoft](#microsoft), [Apple](#apple), [Perplexity](#perplexity)
   - Answer: [Prefill vs Decode: LLM Inference Optimization](https://outcomeschool.com/blog/prefill-vs-decode-llm-inference-optimization) and [The First-Token Latency Problem in LLMs](https://www.youtube.com/watch?v=XD8DD4cEHu0)
@@ -1238,7 +1238,7 @@
 #### Inference, Serving and GPU Performance
 
 - You want to serve a 70B-parameter model on a single 80 GB GPU. Walk me through whether it fits and what single-stream tokens/sec you'd expect.
-  - Answer: [How does Model Quantization work?](https://outcomeschool.com/blog/how-does-model-quantization-work) and [What is KV Cache in LLMs?](https://outcomeschool.com/blog/kv-cache-in-llms)
+  - Answer: [How does Model Quantization work?](https://outcomeschool.com/blog/how-does-model-quantization-work) and [What is KV Cache in LLMs?](https://outcomeschool.com/blog/kv-cache-in-llms) and [How does an LLM use GPU memory?](https://outcomeschool.com/blog/llm-gpu-memory)
 - What does TensorRT / TensorRT-LLM actually do to a model to make it faster, and when will it not help?
   - Answer: [How does TensorRT-LLM work?](https://outcomeschool.com/blog/how-does-tensorrt-llm-work)
 - Design the parallelism strategy for serving a 405B-parameter dense model. TP, PP, EP: what goes where and why?
