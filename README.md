@@ -625,6 +625,7 @@
 - Explain the SVD and give two places it shows up in modern deep learning.
 - On average, how many fair coin flips until you see two heads in a row? Walk me through it.
 - When would you choose Q-learning over policy gradients, and vice versa?
+  - Answer: [What is Policy Gradient? The REINFORCE Algorithm Explained](https://outcomeschool.com/blog/policy-gradient-reinforce)
 - You have a binary loan-approval classifier and limited access to feature weights. How do you explain a rejection?
 
 #### Fine-Tuning, Post-Training and Alignment
