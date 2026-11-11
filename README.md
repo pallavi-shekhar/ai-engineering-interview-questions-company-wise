@@ -298,7 +298,7 @@
   - Answer: [Group Relative Policy Optimization (GRPO)](https://outcomeschool.com/blog/group-relative-policy-optimization-grpo)
 - Explain reward hacking in RLHF and how labs address it.
   - Asked at: [Scale AI](#scale-ai)
-  - Answer: [Reinforcement Learning from Human Feedback (RLHF)](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf)
+  - Answer: [Reinforcement Learning from Human Feedback (RLHF)](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf) and [What is Reward Hacking in Reinforcement Learning and How Do We Prevent It?](https://outcomeschool.com/blog/reward-hacking)
 - What is distillation, and how do you build a strong small model from a large one?
   - Asked at: [Alibaba](#alibaba-qwen)
   - Answer: [How does Knowledge Distillation work?](https://outcomeschool.com/blog/how-does-knowledge-distillation-work)
