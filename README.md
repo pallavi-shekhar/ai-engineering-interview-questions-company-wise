@@ -342,6 +342,7 @@
   - Answer: [How do LLM guardrails work?](https://outcomeschool.com/blog/how-do-llm-guardrails-work)
 - What is Constitutional AI and how does it differ from RLHF? What is RLAIF?
   - Asked at: [Anthropic](#anthropic)
+  - Answer: [What is RLAIF? Reinforcement Learning from AI Feedback Explained](https://outcomeschool.com/blog/reinforcement-learning-from-ai-feedback-rlaif)
 - How do you prevent an agent with tool access from exfiltrating data via a malicious web page?
   - Asked at: [OpenAI](#openai)
   - Answer: [Prompt Injection in LLMs](https://outcomeschool.com/blog/prompt-injection-in-llms)
