@@ -264,6 +264,7 @@
   - Asked at: [Palantir](#palantir)
 - Design human-in-the-loop approval for an agent that takes consequential actions.
   - Asked at: [OpenAI](#openai), [Palantir](#palantir)
+  - Answer: [How do Human-in-the-Loop agents work?](https://outcomeschool.com/blog/human-in-the-loop-agents)
 - Your agent drifts after a long run and confidently works on the wrong thing. Diagnose it.
   - Asked at: [Cognition](#cognition-devin-windsurf)
 
