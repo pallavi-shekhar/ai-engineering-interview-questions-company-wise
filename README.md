@@ -296,7 +296,7 @@
   - Asked at: [Mistral AI](#mistral-ai), [Hugging Face](#hugging-face)
 - What is RLVR (RL with verifiable rewards) and where does it beat a learned reward model?
   - Asked at: [Zhipu AI](#zhipu-ai-glm), [Alibaba](#alibaba-qwen), [Sarvam AI](#sarvam-ai), [Scale AI](#scale-ai)
-  - Answer: [Group Relative Policy Optimization (GRPO)](https://outcomeschool.com/blog/group-relative-policy-optimization-grpo)
+  - Answer: [Group Relative Policy Optimization (GRPO)](https://outcomeschool.com/blog/group-relative-policy-optimization-grpo) and [What is Reinforcement Learning with Verifiable Rewards (RLVR)?](https://outcomeschool.com/blog/reinforcement-learning-with-verifiable-rewards-rlvr)
 - Explain reward hacking in RLHF and how labs address it.
   - Asked at: [Scale AI](#scale-ai)
   - Answer: [Reinforcement Learning from Human Feedback (RLHF)](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf) and [What is Reward Hacking in Reinforcement Learning and How Do We Prevent It?](https://outcomeschool.com/blog/reward-hacking)
@@ -988,7 +988,7 @@
 - Qwen3 uses strong-to-weak distillation, bootstrapping smaller models from flagship ones. How does that work and why is it cheaper?
   - Answer: [How does Knowledge Distillation work?](https://outcomeschool.com/blog/how-does-knowledge-distillation-work)
 - Qwen's reasoning models train with RL using verifiable rewards on maths and code. Why is that preferred over PPO with a learned reward model for these domains?
-  - Answer: [Group Relative Policy Optimization (GRPO)](https://outcomeschool.com/blog/group-relative-policy-optimization-grpo)
+  - Answer: [Group Relative Policy Optimization (GRPO)](https://outcomeschool.com/blog/group-relative-policy-optimization-grpo) and [What is Reinforcement Learning with Verifiable Rewards (RLVR)?](https://outcomeschool.com/blog/reinforcement-learning-with-verifiable-rewards-rlvr)
 
 #### Evaluation and Observability
 
@@ -1493,7 +1493,7 @@
 #### Fine-Tuning, Post-Training and Alignment
 
 - Compare SFT, RLHF, DPO and RLVR for improving an instruction-tuned model. What data does each need, and when would you pick which?
-  - Answer: [Reinforcement Learning from Human Feedback (RLHF)](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf), [Direct Preference Optimization (DPO)](https://outcomeschool.com/blog/direct-preference-optimization-dpo) and [Group Relative Policy Optimization (GRPO)](https://outcomeschool.com/blog/group-relative-policy-optimization-grpo)
+  - Answer: [Reinforcement Learning from Human Feedback (RLHF)](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf), [Direct Preference Optimization (DPO)](https://outcomeschool.com/blog/direct-preference-optimization-dpo), [Group Relative Policy Optimization (GRPO)](https://outcomeschool.com/blog/group-relative-policy-optimization-grpo) and [What is Reinforcement Learning with Verifiable Rewards (RLVR)?](https://outcomeschool.com/blog/reinforcement-learning-with-verifiable-rewards-rlvr)
 - We sell RL environments. Design one for “book a multi-city trip in a web travel app”, specify the reward, and tell me how you stop the policy hacking it.
 
 #### AI System Design
