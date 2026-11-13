@@ -147,7 +147,7 @@
   - Answer: [Decoding InstructGPT](https://outcomeschool.com/blog/decoding-instructgpt) and [Reinforcement Learning from Human Feedback (RLHF)](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf) and [How does Pretraining work?](https://outcomeschool.com/blog/llm-pretraining)
 - Compare greedy, beam search, top-k, top-p and temperature sampling. When does each fail?
   - Asked at: [Google DeepMind](#google-deepmind-and-google-ai), [Apple](#apple), [Perplexity](#perplexity)
-  - Answer: [How does Temperature control LLM output?](https://outcomeschool.com/blog/how-does-temperature-control-llm-output) and [How do Top-k and Top-p Sampling work?](https://outcomeschool.com/blog/how-do-top-k-and-top-p-sampling-work)
+  - Answer: [How does Temperature control LLM output?](https://outcomeschool.com/blog/how-does-temperature-control-llm-output) and [How do Top-k and Top-p Sampling work?](https://outcomeschool.com/blog/how-do-top-k-and-top-p-sampling-work) and [How do Greedy Decoding and Beam Search differ?](https://outcomeschool.com/blog/greedy-decoding-vs-beam-search)
 - What is the lost-in-the-middle problem in long contexts and how do you address it?
   - Asked at: [Moonshot AI](#moonshot-ai-kimi)
   - Answer: [The Lost in the Middle Problem in LLMs](https://outcomeschool.com/blog/lost-in-the-middle-problem-in-llms)
@@ -1533,6 +1533,7 @@
 - You're ingesting millions of web pages a day. Detect near-duplicates (same article, different boilerplate) efficiently.
 - You need to embed millions of text chunks. The embedding service takes batches with a max batch size and a max total-token limit. Write the batcher and make it fast.
 - Implement beam search for an autoregressive model. When would an answer engine actually use it?
+  - Answer: [How do Greedy Decoding and Beam Search differ?](https://outcomeschool.com/blog/greedy-decoding-vs-beam-search)
 
 #### Inference, Serving and GPU Performance
 
