@@ -376,7 +376,7 @@
   - Asked at: [Sarvam AI](#sarvam-ai), [Abridge](#abridge)
 - Explain streaming TTS chunking and jitter-buffer sizing.
   - Asked at: [ElevenLabs](#elevenlabs)
-  - Answer: [How does sentence chunking feed LLM output into TTS faster?](https://outcomeschool.com/blog/sentence-chunking-for-tts) and [How does a TTS model start speaking before the full sentence arrives?](https://outcomeschool.com/blog/streaming-tts)
+  - Answer: [How does sentence chunking feed LLM output into TTS faster?](https://outcomeschool.com/blog/sentence-chunking-for-tts), [How does a TTS model start speaking before the full sentence arrives?](https://outcomeschool.com/blog/streaming-tts), and [How does a jitter buffer keep voice audio smooth over a bad network?](https://outcomeschool.com/blog/jitter-buffer)
 - Design a diarisation system and explain how you attribute roles, not just clusters.
   - Asked at: [Abridge](#abridge)
 - How would you build multimodal retrieval over images, video and text in one index?
