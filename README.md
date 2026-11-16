@@ -1319,7 +1319,9 @@
 
 - Design the ETA prediction system for a ride-hailing marketplace. What features, what model, how do you serve it in <100 ms?
 - Design a personalised feed ranking system with a two-stage candidate generation and ranking architecture.
+  - Answer: [How does a Recommendation System work?](https://outcomeschool.com/blog/recommendation-system)
 - Design a content recommendation system for a streaming catalogue, including cold-start for new titles and new users.
+  - Answer: [How does a Recommendation System work?](https://outcomeschool.com/blog/recommendation-system)
 - Design “people you may know” / job-recommendation ranking at a professional network's scale.
 - Design dynamic pricing / surge for a two-sided marketplace and describe the feedback loops that can go wrong.
 - Design a visual search system: user uploads an image, you return visually similar in-catalogue items.
