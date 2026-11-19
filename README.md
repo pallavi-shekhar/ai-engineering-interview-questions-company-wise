@@ -1134,7 +1134,7 @@
 - What is Attention in machine learning models? What happens in a neural network if you remove all the hidden layers?
   - Answer: [Math behind Attention - Q, K, and V](https://outcomeschool.com/blog/math-behind-attention-qkv)
 - Discuss precision, recall and F1: when would you prioritise one over the others?
-  - Answer: [Precision vs Recall](https://outcomeschool.com/blog/precision-vs-recall)
+  - Answer: [Precision vs Recall](https://outcomeschool.com/blog/precision-vs-recall) and [How does a confusion matrix work?](https://outcomeschool.com/blog/confusion-matrix)
 - How do you handle data imbalance, collinearity, feature selection and regularization?
   - Answer: [Feature Engineering in Machine Learning](https://outcomeschool.com/blog/feature-engineering) and [Regularization in Machine Learning: L1 vs L2](https://outcomeschool.com/blog/regularization-in-machine-learning)
 - Explain how you would design and evaluate an A/B test. What is a p-value and how do you interpret it here?
