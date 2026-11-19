@@ -182,6 +182,7 @@
   - Answer: [How does Model Quantization work?](https://outcomeschool.com/blog/how-does-model-quantization-work)
 - Compare tensor, pipeline, data, sequence and expert parallelism. When do you combine them?
   - Asked at: [Google DeepMind](#google-deepmind-and-google-ai), [Meta](#meta-superintelligence-labs-fair-llama), [Amazon](#amazon-aws), [NVIDIA](#nvidia)
+  - Answer: [How does distributed training work?](https://outcomeschool.com/blog/distributed-training)
 - Estimate the GPU memory needed to serve a 70B model: weights, KV cache, activations, fragmentation.
   - Asked at: [NVIDIA](#nvidia)
   - Answer: [What is KV Cache in LLMs?](https://outcomeschool.com/blog/kv-cache-in-llms) and [Paged Attention in LLMs](https://outcomeschool.com/blog/paged-attention-in-llms) and [How does an LLM use GPU memory?](https://outcomeschool.com/blog/llm-gpu-memory)
