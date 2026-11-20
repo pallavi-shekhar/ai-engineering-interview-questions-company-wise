@@ -1688,6 +1688,7 @@
 - LLMs are non-deterministic, but a refund over $200 must never be auto-approved. Where's the line between prompting and code?
   - Answer: [How do LLM guardrails work?](https://outcomeschool.com/blog/how-do-llm-guardrails-work)
 - Design the human-handoff path for a customer-service agent. When should it escalate, and what does a good handoff look like?
+  - Answer: [How does a voice agent transfer a call to a human with context?](https://outcomeschool.com/blog/call-transfer-with-context)
 
 #### Evaluation and Observability
 
