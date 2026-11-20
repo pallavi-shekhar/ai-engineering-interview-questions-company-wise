@@ -1706,7 +1706,7 @@
 #### Multimodal, Speech and Voice AI
 
 - Your chat agent is moving to the phone. What actually changes?
-  - Answer: [Design a Real-Time Voice AI Agent](https://outcomeschool.com/blog/design-a-real-time-voice-ai-agent)
+  - Answer: [Design a Real-Time Voice AI Agent](https://outcomeschool.com/blog/design-a-real-time-voice-ai-agent) and [How do you write a system prompt for a voice agent, not a chat bot?](https://outcomeschool.com/blog/voice-agent-system-prompt)
 
 #### Behavioral and Culture
 
