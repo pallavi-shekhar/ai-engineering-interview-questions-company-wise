@@ -1132,7 +1132,7 @@
 - Explain the bias-variance trade-off, cross-validation, and the curse of dimensionality.
   - Answer: [How does the Bias-Variance Tradeoff work?](https://outcomeschool.com/blog/bias-variance-tradeoff) and [How does Cross-Validation work?](https://outcomeschool.com/blog/cross-validation)
 - How do GRU cells work, and how do they address the vanishing gradient problem? How does a BiLSTM work?
-  - Answer: [Recurrent Neural Network (RNN)](https://outcomeschool.com/blog/recurrent-neural-network)
+  - Answer: [Recurrent Neural Network (RNN)](https://outcomeschool.com/blog/recurrent-neural-network) and [How do LSTM and GRU work?](https://outcomeschool.com/blog/lstm-and-gru)
 - What is Attention in machine learning models? What happens in a neural network if you remove all the hidden layers?
   - Answer: [Math behind Attention - Q, K, and V](https://outcomeschool.com/blog/math-behind-attention-qkv)
 - Discuss precision, recall and F1: when would you prioritise one over the others?
