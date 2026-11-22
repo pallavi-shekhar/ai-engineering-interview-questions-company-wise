@@ -213,7 +213,7 @@
   - Answer: [Chunking Strategies for RAG](https://outcomeschool.com/blog/chunking-strategies-for-rag)
 - How do you choose between a sparse retriever (BM25) and a dense retriever? When do you need both?
   - Asked at: [Microsoft](#microsoft), [Perplexity](#perplexity), [Glean](#glean)
-  - Answer: [How does Hybrid Search work?](https://outcomeschool.com/blog/how-does-hybrid-search-work)
+  - Answer: [How does Hybrid Search work?](https://outcomeschool.com/blog/how-does-hybrid-search-work) and [How does BM25 work?](https://outcomeschool.com/blog/bm25)
 - What is a reranker, when should you use one, and what does a cross-encoder cost you?
   - Asked at: [Cohere](#cohere), [Microsoft](#microsoft), [Perplexity](#perplexity)
   - Answer: [How does a Reranker work?](https://outcomeschool.com/blog/how-does-a-reranker-work)
