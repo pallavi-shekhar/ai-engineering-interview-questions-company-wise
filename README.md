@@ -1318,6 +1318,7 @@
 - Your offline metric improved but the online A/B did not. Enumerate the reasons this happens and how you would tell them apart.
 - Explain position bias in ranking data and how you would debias training.
 - How do you design a feature store, and what causes training/serving skew?
+  - Answer: [How does a feature store work?](https://outcomeschool.com/blog/feature-store)
 
 #### AI System Design
 
