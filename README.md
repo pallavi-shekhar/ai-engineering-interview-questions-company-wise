@@ -1813,7 +1813,7 @@
 #### LLM Internals and Architecture
 
 - A conversation runs past the context window. What do you keep, and how do you decide?
-  - Answer: [How does context compaction work?](https://outcomeschool.com/blog/how-does-context-compaction-work) and [AI Agent Memory](https://outcomeschool.com/blog/ai-agent-memory)
+  - Answer: [How does context compaction work?](https://outcomeschool.com/blog/how-does-context-compaction-work) and [AI Agent Memory](https://outcomeschool.com/blog/ai-agent-memory) and [How does a voice agent manage conversation state across a long call?](https://outcomeschool.com/blog/conversation-state-in-voice-agents)
 
 #### Inference, Serving and GPU Performance
 
