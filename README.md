@@ -1893,6 +1893,7 @@
 #### RAG and Retrieval
 
 - The patient's chart already lists their medications. How would you use that to improve transcription of drug names, and how would you keep it from backfiring?
+  - Answer: [How does keyword boosting help ASR recognize domain words?](https://outcomeschool.com/blog/keyword-boosting-in-asr)
 
 #### Agents and Tool Use
 
