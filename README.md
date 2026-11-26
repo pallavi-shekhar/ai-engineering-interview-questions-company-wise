@@ -1195,7 +1195,7 @@
 #### Agents and Tool Use
 
 - Your on-device model must emit valid, schema-conforming tool calls. How do you guarantee validity rather than hope for it?
-  - Answer: [How does Function Calling work in LLMs?](https://outcomeschool.com/blog/how-does-function-calling-work-in-llms)
+  - Answer: [How does Function Calling work in LLMs?](https://outcomeschool.com/blog/how-does-function-calling-work-in-llms) and [How does Constrained Decoding work?](https://outcomeschool.com/blog/constrained-decoding)
 
 #### Fine-Tuning, Post-Training and Alignment
 
