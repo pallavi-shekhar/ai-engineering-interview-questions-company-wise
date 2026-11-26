@@ -376,6 +376,7 @@
   - Asked at: [ElevenLabs](#elevenlabs)
 - How do you handle code-switching and accents in a production ASR system?
   - Asked at: [Sarvam AI](#sarvam-ai), [Abridge](#abridge)
+  - Answer: [How does a voice agent handle accents and noisy environments?](https://outcomeschool.com/blog/accents-and-noise-in-voice-agents)
 - Explain streaming TTS chunking and jitter-buffer sizing.
   - Asked at: [ElevenLabs](#elevenlabs)
   - Answer: [How does sentence chunking feed LLM output into TTS faster?](https://outcomeschool.com/blog/sentence-chunking-for-tts), [How does a TTS model start speaking before the full sentence arrives?](https://outcomeschool.com/blog/streaming-tts), and [How does a jitter buffer keep voice audio smooth over a bad network?](https://outcomeschool.com/blog/jitter-buffer)
@@ -1918,6 +1919,7 @@
 #### Multimodal, Speech and Voice AI
 
 - Our audio is a clinic room: two or three speakers, background noise, accents, and a vocabulary full of drug names. How would you build and improve the ASR for that?
+  - Answer: [How does a voice agent handle accents and noisy environments?](https://outcomeschool.com/blog/accents-and-noise-in-voice-agents)
 
 ### Figure AI
 
