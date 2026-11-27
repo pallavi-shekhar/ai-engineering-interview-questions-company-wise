@@ -376,7 +376,7 @@
   - Asked at: [ElevenLabs](#elevenlabs)
 - How do you handle code-switching and accents in a production ASR system?
   - Asked at: [Sarvam AI](#sarvam-ai), [Abridge](#abridge)
-  - Answer: [How does a voice agent handle accents and noisy environments?](https://outcomeschool.com/blog/accents-and-noise-in-voice-agents)
+  - Answer: [How does a voice agent handle accents and noisy environments?](https://outcomeschool.com/blog/accents-and-noise-in-voice-agents) and [How does a voice agent detect and switch the user's language mid-call?](https://outcomeschool.com/blog/language-switching-in-voice-agents)
 - Explain streaming TTS chunking and jitter-buffer sizing.
   - Asked at: [ElevenLabs](#elevenlabs)
   - Answer: [How does sentence chunking feed LLM output into TTS faster?](https://outcomeschool.com/blog/sentence-chunking-for-tts), [How does a TTS model start speaking before the full sentence arrives?](https://outcomeschool.com/blog/streaming-tts), and [How does a jitter buffer keep voice audio smooth over a bad network?](https://outcomeschool.com/blog/jitter-buffer)
