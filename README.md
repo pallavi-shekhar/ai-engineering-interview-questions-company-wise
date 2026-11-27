@@ -407,7 +407,7 @@
   - Asked at: [Microsoft](#microsoft)
 - Design an LLM gateway: routing across providers, failover, caching, budgets and rate limits.
   - Asked at: [Perplexity](#perplexity), [Palantir](#palantir)
-  - Answer: [LLM Routing](https://outcomeschool.com/blog/llm-routing) and [How does Semantic Caching work?](https://outcomeschool.com/blog/how-does-semantic-caching-work)
+  - Answer: [LLM Routing](https://outcomeschool.com/blog/llm-routing) and [How does Semantic Caching work?](https://outcomeschool.com/blog/how-does-semantic-caching-work) and [How does an LLM Gateway work?](https://outcomeschool.com/blog/llm-gateway)
 - Design the serving stack for a consumer chat assistant at hundreds of millions of users.
   - Asked at: [Anthropic](#anthropic), [OpenAI](#openai), [Google DeepMind](#google-deepmind-and-google-ai), [Meta](#meta-superintelligence-labs-fair-llama), [xAI](#xai)
   - Answer: [Inside ChatGPT: What Happens After You Hit Enter](https://outcomeschool.substack.com/p/inside-chatgpt-what-happens-after) and [LLM Inference Optimization](https://outcomeschool.com/blog/llm-inference-optimization)
