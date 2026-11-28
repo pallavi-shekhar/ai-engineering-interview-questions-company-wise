@@ -156,7 +156,7 @@
   - Answer: [RMSNorm (Root Mean Square Layer Normalization)](https://outcomeschool.com/blog/rmsnorm-root-mean-square-layer-normalization)
 - Explain SwiGLU and why gated activations replaced ReLU/GELU in modern LLM MLP blocks.
   - Asked at: [Meta](#meta-superintelligence-labs-fair-llama)
-  - Answer: [Feed-Forward Networks in LLMs](https://outcomeschool.com/blog/feed-forward-networks-in-llms)
+  - Answer: [Feed-Forward Networks in LLMs](https://outcomeschool.com/blog/feed-forward-networks-in-llms) and [How does SwiGLU work?](https://outcomeschool.com/blog/swiglu)
 - Walk me through what happens, tensor by tensor, in one forward pass of a decoder-only transformer.
   - Asked at: [Anthropic](#anthropic)
   - Answer: [Decoding Transformer Architecture](https://outcomeschool.com/blog/decoding-transformer-architecture)
@@ -684,7 +684,7 @@
 #### LLM Internals and Architecture
 
 - Explain the architectural choices in a Llama-class model: why grouped-query attention, RoPE and SwiGLU instead of the vanilla 2017 Transformer?
-  - Answer: [Grouped Query Attention](https://outcomeschool.com/blog/grouped-query-attention), [Math Behind RoPE (Rotary Position Embedding)](https://outcomeschool.com/blog/math-behind-rope-rotary-position-embedding) and [Feed-Forward Networks in LLMs](https://outcomeschool.com/blog/feed-forward-networks-in-llms)
+  - Answer: [Grouped Query Attention](https://outcomeschool.com/blog/grouped-query-attention), [Math Behind RoPE (Rotary Position Embedding)](https://outcomeschool.com/blog/math-behind-rope-rotary-position-embedding), [Feed-Forward Networks in LLMs](https://outcomeschool.com/blog/feed-forward-networks-in-llms) and [How does SwiGLU work?](https://outcomeschool.com/blog/swiglu)
 - What breaks when you scale LLM training from 8 GPUs to thousands, and how do modern stacks deal with it?
 
 #### Inference, Serving and GPU Performance
