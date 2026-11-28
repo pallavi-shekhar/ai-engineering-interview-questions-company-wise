@@ -374,6 +374,7 @@
   - Answer: [Design a Real-Time Voice AI Agent](https://outcomeschool.com/blog/design-a-real-time-voice-ai-agent) and [Cascaded vs Speech-to-Speech: How to choose the right voice agent architecture?](https://outcomeschool.com/blog/cascaded-vs-speech-to-speech)
 - How do you evaluate ASR quality beyond WER, and TTS quality when there is no single correct output?
   - Asked at: [ElevenLabs](#elevenlabs)
+  - Answer: [How do you evaluate a voice AI agent?](https://outcomeschool.com/blog/voice-agent-evaluation)
 - How do you handle code-switching and accents in a production ASR system?
   - Asked at: [Sarvam AI](#sarvam-ai), [Abridge](#abridge)
   - Answer: [How does a voice agent handle accents and noisy environments?](https://outcomeschool.com/blog/accents-and-noise-in-voice-agents) and [How does a voice agent detect and switch the user's language mid-call?](https://outcomeschool.com/blog/language-switching-in-voice-agents)
