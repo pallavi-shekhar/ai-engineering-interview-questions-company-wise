@@ -874,6 +874,7 @@
 - R1-Zero was trained with RL and essentially no SFT first. What did that show, and why did full R1 add SFT back?
   - Answer: [Large Reasoning Models (LRMs)](https://outcomeschool.com/blog/large-reasoning-models)
 - FP8 training at 671B scale is hard. What actually breaks in low precision, and how do you make it stable?
+  - Answer: [How does Mixed Precision Training work?](https://outcomeschool.com/blog/mixed-precision-training)
 - How do you build a training dataset without triggering model collapse when much of your data is synthetic?
 - DualPipe overlaps computation and communication in training. Why is that overlap the whole game at this scale, and what is the trade-off?
 
